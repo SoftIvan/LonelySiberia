@@ -1,2 +1,2 @@
 # LonelySiberia
-Super-grand-pupper project
+Super-pupper-grand project
