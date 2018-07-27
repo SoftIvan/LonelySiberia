@@ -10,6 +10,7 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2018
 <<<<<<< HEAD
+<<<<<<< HEAD
 		Month: 7
 		Day: 27
 		Hour: 11
@@ -17,12 +18,17 @@ FBXHeaderExtension:  {
 		Second: 53
 		Millisecond: 345
 =======
+=======
+>>>>>>> parent of fc066a9... оптимайз модели
 		Month: 1
 		Day: 4
 		Hour: 14
 		Minute: 5
 		Second: 28
 		Millisecond: 581
+<<<<<<< HEAD
+>>>>>>> parent of fc066a9... оптимайз модели
+=======
 >>>>>>> parent of fc066a9... оптимайз модели
 	}
 	Creator: "FBX SDK/FBX Plugins version 2016.0"
@@ -46,8 +52,13 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationName", "KString", "", "", "3ds Max"
 			P: "Original|ApplicationVersion", "KString", "", "", "2014"
 <<<<<<< HEAD
+<<<<<<< HEAD
 			P: "Original|DateTime_GMT", "DateTime", "", "", "27/07/2018 04:22:53.345"
 			P: "Original|FileName", "KString", "", "", "C:\Users\Иван\Documents\GitHub\LonelySiberia\Radio tower\Meshes\radio_tower.FBX"
+=======
+			P: "Original|DateTime_GMT", "DateTime", "", "", "04/01/2018 07:05:28.581"
+			P: "Original|FileName", "KString", "", "", "D:\temp_Ivan\Lonely Siberia\Assets\Land\Radio tower\Meshes\radio_tower.FBX"
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 			P: "Original|DateTime_GMT", "DateTime", "", "", "04/01/2018 07:05:28.581"
 			P: "Original|FileName", "KString", "", "", "D:\temp_Ivan\Lonely Siberia\Assets\Land\Radio tower\Meshes\radio_tower.FBX"
@@ -57,7 +68,11 @@ FBXHeaderExtension:  {
 			P: "LastSaved|ApplicationName", "KString", "", "", "3ds Max"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "2014"
 <<<<<<< HEAD
+<<<<<<< HEAD
 			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "27/07/2018 04:22:53.345"
+=======
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "04/01/2018 07:05:28.581"
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "04/01/2018 07:05:28.581"
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -96,7 +111,11 @@ GlobalSettings:  {
 Documents:  {
 	Count: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Document: 1737710832, "", "Scene" {
+=======
+	Document: 1844282528, "", "Scene" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Document: 1844282528, "", "Scene" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -344,7 +363,11 @@ Definitions:  {
 
 Objects:  {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 1741948672, "Geometry::", "Mesh" {
+=======
+	Geometry: 1986285216, "Geometry::", "Mesh" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Geometry: 1986285216, "Geometry::", "Mesh" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -637,6 +660,7 @@ Objects:  {
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 			} 
 		}
+<<<<<<< HEAD
 <<<<<<< HEAD
 		LayerElementBinormal: 0 {
 			Version: 102
@@ -1067,6 +1091,8 @@ Objects:  {
 		}
 =======
 >>>>>>> parent of fc066a9... оптимайз модели
+=======
+>>>>>>> parent of fc066a9... оптимайз модели
 		LayerElementColor: 0 {
 			Version: 101
 			Name: ""
@@ -1331,12 +1357,18 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 1741949216, "Geometry::", "Mesh" {
 =======
+=======
+>>>>>>> parent of fc066a9... оптимайз модели
 	NodeAttribute: 1956949312, "NodeAttribute::", "Null" {
 		TypeFlags: "Null"
 	}
 	Geometry: 1986287456, "Geometry::", "Mesh" {
+<<<<<<< HEAD
+>>>>>>> parent of fc066a9... оптимайз модели
+=======
 >>>>>>> parent of fc066a9... оптимайз модели
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0,0,0
@@ -1582,7 +1614,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 1741950848, "Geometry::", "Mesh" {
+=======
+	Geometry: 1986286896, "Geometry::", "Mesh" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Geometry: 1986286896, "Geometry::", "Mesh" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1699,7 +1735,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Model: 1733901648, "Model::Radio_Tower_LOD0", "Mesh" {
+=======
+	Model: 1689345600, "Model::Radio_Tower_LOD0", "Mesh" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Model: 1689345600, "Model::Radio_Tower_LOD0", "Mesh" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1726,8 +1766,11 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Model: 1733888496, "Model::Radio_Tower_LOD01", "Mesh" {
 =======
+=======
+>>>>>>> parent of fc066a9... оптимайз модели
 	Model: 1689347792, "Model::INTERIOR", "Null" {
 		Version: 232
 		Properties70:  {
@@ -1744,6 +1787,9 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 	Model: 1689352176, "Model::Radio_Tower_LOD01", "Mesh" {
+<<<<<<< HEAD
+>>>>>>> parent of fc066a9... оптимайз модели
+=======
 >>>>>>> parent of fc066a9... оптимайз модели
 		Version: 232
 		Properties70:  {
@@ -1768,7 +1814,11 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Model: 1733903840, "Model::Radio_Tower_LOD02", "Mesh" {
+=======
+	Model: 1840921152, "Model::Radio_Tower_LOD02", "Mesh" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Model: 1840921152, "Model::Radio_Tower_LOD02", "Mesh" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1796,7 +1846,11 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583768032, "Material::Material #49", "" {
+=======
+	Material: 1543183984, "Material::Material #49", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1543183984, "Material::Material #49", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1822,7 +1876,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583791552, "Material::Material #50", "" {
+=======
+	Material: 1543185424, "Material::Material #50", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1543185424, "Material::Material #50", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1848,7 +1906,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583784832, "Material::Material #98", "" {
+=======
+	Material: 1175606000, "Material::Material #98", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1175606000, "Material::Material #98", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1874,7 +1936,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583787712, "Material::18 - Default", "" {
+=======
+	Material: 1175605520, "Material::18 - Default", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1175605520, "Material::18 - Default", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1900,7 +1966,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583788672, "Material::Material #73", "" {
+=======
+	Material: 1175606480, "Material::Material #73", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1175606480, "Material::Material #73", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1926,7 +1996,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583790112, "Material::04 - Default", "" {
+=======
+	Material: 1631409760, "Material::04 - Default", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1631409760, "Material::04 - Default", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1952,7 +2026,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583792032, "Material::12 - Default", "" {
+=======
+	Material: 1686712336, "Material::12 - Default", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1686712336, "Material::12 - Default", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -1978,7 +2056,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583792992, "Material::Material #111", "" {
+=======
+	Material: 1686712816, "Material::Material #111", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1686712816, "Material::Material #111", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2004,7 +2086,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 1583793472, "Material::06 - Default", "" {
+=======
+	Material: 1686713776, "Material::06 - Default", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Material: 1686713776, "Material::06 - Default", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2030,7 +2116,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Video: 1733800400, "Video::Map #0", "Clip" {
+=======
+	Video: 1848447264, "Video::Map #0", "Clip" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Video: 1848447264, "Video::Map #0", "Clip" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2043,7 +2133,11 @@ Objects:  {
 		RelativeFilename: "..\tex\ston_brick_rostok_1.jpg"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Video: 1733797600, "Video::Map #1", "Clip" {
+=======
+	Video: 1848445264, "Video::Map #1", "Clip" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Video: 1848445264, "Video::Map #1", "Clip" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2056,7 +2150,11 @@ Objects:  {
 		RelativeFilename: "..\..\..\..\..\..\[Top Secret]\.Try to Survive\. models\location\map\all_texture\brick&stouns\ston_ros_wall_03.jpg"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Video: 1589795456, "Video::Map #7", "Clip" {
+=======
+	Video: 1848446064, "Video::Map #7", "Clip" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Video: 1848446064, "Video::Map #7", "Clip" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2069,7 +2167,11 @@ Objects:  {
 		RelativeFilename: "..\tex\wood_plank6_bar_a.jpg"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Video: 1589799056, "Video::Map #2", "Clip" {
+=======
+	Video: 1848446464, "Video::Map #2", "Clip" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Video: 1848446464, "Video::Map #2", "Clip" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2082,7 +2184,11 @@ Objects:  {
 		RelativeFilename: "..\tex\Rust_Parts.jpg"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Video: 1589788256, "Video::Map #5", "Clip" {
+=======
+	Video: 1848445664, "Video::Map #5", "Clip" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Video: 1848445664, "Video::Map #5", "Clip" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2095,7 +2201,11 @@ Objects:  {
 		RelativeFilename: "..\tex\Vsyakoe.jpg"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Video: 1589804656, "Video::Map #8", "Clip" {
+=======
+	Video: 1848446864, "Video::Map #8", "Clip" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Video: 1848446864, "Video::Map #8", "Clip" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2108,7 +2218,11 @@ Objects:  {
 		RelativeFilename: "..\tex\TexturesCom_MetalRusted0122_2_seamless_S.jpg"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Texture: 1583789152, "Texture::Map #0", "" {
+=======
+	Texture: 1543183024, "Texture::Map #0", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Texture: 1543183024, "Texture::Map #0", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2128,7 +2242,11 @@ Objects:  {
 		Cropping: 0,0,0,0
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Texture: 1583787232, "Texture::Map #1", "" {
+=======
+	Texture: 1543183504, "Texture::Map #1", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Texture: 1543183504, "Texture::Map #1", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2148,7 +2266,11 @@ Objects:  {
 		Cropping: 0,0,0,0
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Texture: 1583794912, "Texture::Map #7", "" {
+=======
+	Texture: 1175605040, "Texture::Map #7", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Texture: 1175605040, "Texture::Map #7", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2168,7 +2290,11 @@ Objects:  {
 		Cropping: 0,0,0,0
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Texture: 1583789632, "Texture::Map #2", "" {
+=======
+	Texture: 1781920960, "Texture::Map #2", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Texture: 1781920960, "Texture::Map #2", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2188,7 +2314,11 @@ Objects:  {
 		Cropping: 0,0,0,0
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Texture: 1583790592, "Texture::Map #5", "" {
+=======
+	Texture: 1686711856, "Texture::Map #5", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Texture: 1686711856, "Texture::Map #5", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2208,7 +2338,11 @@ Objects:  {
 		Cropping: 0,0,0,0
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Texture: 1583793952, "Texture::Map #8", "" {
+=======
+	Texture: 1686713296, "Texture::Map #8", "" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	Texture: 1686713296, "Texture::Map #8", "" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2228,7 +2362,11 @@ Objects:  {
 		Cropping: 0,0,0,0
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	CollectionExclusive: 1592901984, "DisplayLayer::sand_box", "DisplayLayer" {
+=======
+	CollectionExclusive: 1686299808, "DisplayLayer::sand_box", "DisplayLayer" {
+>>>>>>> parent of fc066a9... оптимайз модели
 =======
 	CollectionExclusive: 1686299808, "DisplayLayer::sand_box", "DisplayLayer" {
 >>>>>>> parent of fc066a9... оптимайз модели
@@ -2244,6 +2382,7 @@ Objects:  {
 Connections:  {
 	
 	;Model::Radio_Tower_LOD0, Model::RootNode
+<<<<<<< HEAD
 <<<<<<< HEAD
 	C: "OO",1733901648,0
 	
@@ -2346,6 +2485,8 @@ Connections:  {
 	;Video::Map #8, Texture::Map #8
 	C: "OO",1589804656,1583793952
 =======
+=======
+>>>>>>> parent of fc066a9... оптимайз модели
 	C: "OO",1689345600,0
 	
 	;Model::INTERIOR, Model::RootNode
@@ -2452,5 +2593,8 @@ Connections:  {
 	
 	;Video::Map #8, Texture::Map #8
 	C: "OO",1848446864,1686713296
+<<<<<<< HEAD
+>>>>>>> parent of fc066a9... оптимайз модели
+=======
 >>>>>>> parent of fc066a9... оптимайз модели
 }
